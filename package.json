@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WastedHI/aGoodStart.git"
+    "url": "git+https://github.com/WastedHI/RecipeCreater.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WastedHI/aGoodStart/issues"
+    "url": "https://github.com/WastedHI/RecipeCreater/issues"
   },
-  "homepage": "https://github.com/WastedHI/aGoodStart#readme",
+  "homepage": "https://github.com/WastedHI/RecipeCreater#readme",
   "dependencies": {
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.6",
